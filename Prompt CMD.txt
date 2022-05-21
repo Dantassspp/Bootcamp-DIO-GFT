@@ -1,0 +1,14 @@
+Comandos 
+
+Dir- Lista Diretorios na pasta
+Cd- Navegar entre pastas
+Cd /- Base do diretório C
+Cd Windows- Pasta windows
+Cd ..- retroceder um nível
+Cls- Limpar tela
+Tab- Auto completar nome
+Mkdir- Cria pasta
+Echo- Printa no terminal um texto
+>- Redireciona fluxo
+Del- Apaga o conteudo da pasta
+Rmdir- Apaga pasta e conteúdo

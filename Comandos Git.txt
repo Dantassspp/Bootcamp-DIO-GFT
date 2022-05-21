@@ -1,0 +1,21 @@
+Sha1- Algoritmo de encriptação
+SSH-SSH-KEYGEN-+ED25519-C "EMAIL"- Gera chave ssh
+Ls- Lista
+Pwd- Mostra caminho
+EVAL $ (SSH-AGENT -S)- SSH agent, lida com as chaves
+SSH-ADD ID_ED25519- Passa chave privada para agente
+Ctrl+L- Limpa tela
+Git Init- Inicializador de repositório
+Ls -a- Mostra pastas ocultas
+Git config --global --unset "user..."- Reseta dados do nome ou email
+Git config --global user.email "email"- Adiciona email (commit)
+Git config --global user.name "name"- Adiciona nome (commit)
+Git config --list- Lista propriedades
+Git add *- Adiciona toas as modificações
+Git add "nome do arquivo"- Adiciona local especifico
+Git commit -m "Mensagem"- Adciona mensagem ao commit
+Git status- mostra status do arquivo
+Mv 'Arquivo" ./"local"/- move arquivo para local específico
+Git remote add origin "link"- empurra repositório local para remoto
+
+
